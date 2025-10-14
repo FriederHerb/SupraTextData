@@ -6,6 +6,42 @@
     },
     {
       "type": "sentence",
+      "id": "savitri-13"
+    },
+    {
+      "type": "sentence",
+      "id": "savitri-19"
+    },
+    {
+      "type": "sentence",
+      "id": "savitri-30"
+    },
+    {
+      "type": "sentence",
+      "id": "savitri-40"
+    },
+    {
+      "type": "sentence",
+      "id": "savitri-47"
+    },
+    {
+      "type": "sentence",
+      "id": "savitri-55"
+    },
+    {
+      "type": "sentence",
+      "id": "savitri-74"
+    },
+    {
+      "type": "sentence",
+      "id": "savitri-101"
+    },
+    {
+      "type": "sentence",
+      "id": "savitri-126"
+    },
+    {
+      "type": "sentence",
       "id": "savitri-4"
     }
   ],
