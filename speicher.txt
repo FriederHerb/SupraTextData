@@ -1,1 +1,13 @@
-
+{
+  "savedSentences": [
+    {
+      "type": "sentence",
+      "id": "savitri-3"
+    },
+    {
+      "type": "sentence",
+      "id": "savitri-4"
+    }
+  ],
+  "readingBookmarks": []
+}
